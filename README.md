@@ -17,7 +17,7 @@ Nukkit
 
 __A Nuclear-Powered Server Software For Minecraft: Bedrock Edition__
 
-[![Travis](https://travis-ci.org/gamesukimanIRS/Nukkit.svg?branch=master)](https://travis-ci.org/Nukkit/Nukkit)
+[![Travis](https://travis-ci.org/Nukkit/Nukkit.svg?branch=master)](https://travis-ci.org/Nukkit/Nukkit.svg?branch=master)
 
 Introduction
 -------------
